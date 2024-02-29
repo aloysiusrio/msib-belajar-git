@@ -1,5 +1,4 @@
 "Hello World"
 
 Nama        : Aloysius Aprillio Sonny Nugroho
-Asal        : Kab. Semarang
 Hobby       : Main Game && Nonton Film
